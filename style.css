@@ -1,2 +1,13 @@
+.cabeçalho{
+  background-color: rgb(40, 40, 199);
+  color: rgb(156, 226, 43);
+display: flex;
+justify-content:space-around;
+padding: 24px  0;
 
+.cabeçalho-cabeçalho{
+    widht:20%;
+}
+    
+    
 
