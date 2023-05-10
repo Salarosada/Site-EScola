@@ -14,11 +14,21 @@ padding: 24px  0;
 }
 .escola{
  background-image: linear-gradient(#3b39,rgba(236, 214, 9, 0.6) );
- display: ;
-
-
 }
 
-    
-    
+.img{
 
+width: 20%;
+}
+
+.img-aluno{
+  text-align: center;
+}
+    
+.iconi{
+  text-align: center;
+}
+    
+.icn{
+  width: 6%;
+}
