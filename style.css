@@ -30,5 +30,13 @@ width: 20%;
 }
     
 .icn{
-  width: 6%;
+  width: 6%;}
+
+.todos-estudantes{ 
+
+  display: grid;
+  grid-template-columns: 20% 20% 20% 20% 20%;
 }
+  
+  
+
