@@ -38,5 +38,11 @@ width: 20%;
   grid-template-columns: 20% 20% 20% 20% 20%;
 }
   
-  
+.estudante-imagem{
+  width: 20%;
+}
+   
+.estudante-icone{ 
+  width: 5%;
+}
 
