@@ -32,7 +32,7 @@ width: 20%;
 .icn{
   width: 6%;}
 
-.todos-estudantes{ 
+.estudantes-todos{ 
 
   display: grid;
   grid-template-columns: 20% 20% 20% 20% 20%;
@@ -45,4 +45,11 @@ width: 20%;
 .estudante-icone{ 
   width: 5%;
 }
+.rodape-imagem{
+  width: 20%; 
+}
+.rodape{
+  text-align: center;
+}
+
 
